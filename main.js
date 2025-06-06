@@ -19,14 +19,14 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "A falta de consciência ambiental e a baixa adesão a práticas sustentáveis acontecem por vários motivos, entre os quais destacam-se:",
+        enunciado: "porque o campo depende da ciade?",
         alternativas: [
             {
-                texto: "Falta de Educação Ambiental",
+                texto: "porque o campo depende da ciade?",
                 afirmacao: "Muitas pessoas não têm acesso a informações adequadas sobre o impacto de suas ações no meio ambiente, o que leva à falta de conscientização e, consequentemente, a comportamentos prejudiciais à <b>sustentabilidade</b>.</b>."
             },
             {
-                texto: "Falta de Incentivos e Legislação",
+                texto: "porque a cidade depende do campo?",
                 afirmacao: "A ausência de incentivos governamentais e de uma legislação <b>rigorosa </b>faz com que empresas e indivíduos não se sintam motivados a adotar práticas sustentáveis, contribuindo para a continuidade de ações nocivas ao meio ambiente."
             }
         ]
