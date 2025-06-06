@@ -6,14 +6,14 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Como faço para conseguir medicamentos não padronizados do sus?",
+        enunciado: "você sabia que o campo e a cidade dependem um do outro?",
         alternativas: [
             {
-                texto: "encaminhar-se a regional de saude do seu município, munido dos seguintes documentos: cpf ou rg, comprovante de residencia, prescriçao atualizada, receituario medico.",
+                texto: "sim",
                 afirmacao: "<b>Organização</b> Sim, a Sesa tem como principal função garantir o acesso ao serviços que visem a promoção, protećão e recuperação da saúde da população em todo o Paraná."
             },
             {
-                texto: "Exigências quanto ao  relatório médico. Os documentos preenchidos pelo médico deverão conter carimbo legível, com nome e CRM do médico, data e assinatura.",
+                texto: "não",
                 afirmacao: "Você se destaca por seu <b>conhecimento</b>, o carimbo deverá conter também o número do Registro de Qualificação de Especialista (RQE)"
             }
         ]
