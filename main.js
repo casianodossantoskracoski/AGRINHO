@@ -27,25 +27,25 @@ const perguntas = [
             },
             {
                 texto: "porque a cidade depende do campo?",
-                afirmacao: "é no campo que os alimentos consumidos pela população da cidade são produzidos e também frutas e hortalissas são cultivadas no campo."
+                afirmacao: "é no campo que os alimentos consumidos pela população da cidade são produzidos."
             },
         ]
     },
     {
-        enunciado: "as cidades oferecem um mercado consumidor para os produtos rurais, acesso a serviços e infraestrutura essenciais e oportunidades de emprego.",
+        enunciado: "veja:",
         alternativas: [
             {
-                texto: "Acredito que Falta de investimento governamental",
+                texto: "as cidades oferecem um mercado consumidor para os produtos rurais, acesso a serviços e infraestrutura essenciais e oportunidades de emprego.",
                 afirmacao: "<b>Pragmatismo</b> A falta de investimento governamental na saúde pública decorre de orçamentos restritos e outras prioridades de gastos, levando a infraestrutura precária e serviços de saúde insuficientes."
             },
             {
-                texto: "desigualdades na distribuição de recursos",
+                texto: "",
                 afirmacao: "<b>Detalhista</b>,Desigualdades na distribuição de recursos na saúde pública ocorrem quando os recursos são alocados de maneira desigual entre diferentes regiões ou populações. Isso pode resultar em acesso desigual a serviços de saúde, com áreas mais pobres ou rurais recebendo menos apoio e, portanto, enfrentando maiores desafios em termos de qualidade e acesso a cuidados médicos."
             },
         ]
     },
     {
-        enunciado: "Por que a violência obstétrica está cada vez mais banalizada? ",
+        enunciado: "é no campo que os alimentos consumidos pela população da cidade são produzidos. ",
         alternativas: [
             {
                 texto: "Negligência médica",
