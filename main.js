@@ -45,32 +45,19 @@ const perguntas = [
         ]
     },
     {
-        enunciado: " ",
+        enunciado: " e você prefere campo ou cidade?",
         alternativas: [
             {
-                texto: "Negligência médica",
-                afirmacao: "<b>Foco</b> Apesar do uso de algumas técnicas serem restringidas apenas para casos específicos, ainda são utilizadas diariamente por profissionais da saúde."
+                texto: "campo",
+                afirmacao: "<b>gosta da calmaria</b> gosta da calmaria do campo e da vivenia com animais."
             },
             {
-                texto: "Desinformação da população.",
-                afirmacao: "<b>Curiosidade</b> Mesmo com fácil acesso a informação, o assunto é pouco comentado e dado certa  importância. "
+                texto: "cidade",
+                afirmacao: "<b>gosta da interação com pessoas</b> gosta de conviver e interagir com muitas pesoas  "
             },
         ]
     },
-    {
-        enunciado: "Como evitar que ocorra a extinção de animais nativos?",
-        alternativas: [
-            {
-                texto: "Criação de mais áreas de proteção ambiental, com grande biodiversidade ajudaria a melhorar esse cenário?",
-                afirmacao: "Sim, pois preservando nosso meio ambiente, protegemos nossos animais e facilitamos sua reprodução "
-            },
-            {
-                texto: "Evitar intervenções de espécies não nativas neste ambiente pode ser uma alternativa?",
-                afirmacao: "Sim, animais de um determinado local não estão preparados para lidar com predadores de outras áreas, levando a um extermínio da espécie local"
-            }
-        ]
-    }
-];
+    
 
 let atual = 0;
 let perguntaAtual;
