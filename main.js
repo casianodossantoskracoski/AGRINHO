@@ -10,11 +10,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "sim",
-                afirmacao: "<b>Organização</b> Sim, a Sesa tem como principal função garantir o acesso ao serviços que visem a promoção, protećão e recuperação da saúde da população em todo o Paraná."
+                afirmacao: "<b>conhecimento</b> sabe o porque cidade e campo dependem um do outo."
             },
             {
                 texto: "não",
-                afirmacao: "Você se destaca por seu <b>conhecimento</b>, o carimbo deverá conter também o número do Registro de Qualificação de Especialista (RQE)"
+                afirmacao: "Você se destaca por <b> busca de conhecimento</b>, deseja saber o porque de campo e cidade dependerem um do outro."
             }
         ]
     },
@@ -23,11 +23,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "porque o campo depende da cidade?",
-                afirmacao: "as cidades oferecem um mercado consumidor para os produtos rurais, acesso a serviços e infraestrutura essenciais e oportunidades de emprego."
+                afirmacao: "é provavel que more na <b>campo</b>."
             },
             {
                 texto: "porque a cidade depende do campo?",
-                afirmacao: "é no campo que os alimentos consumidos pela população da cidade são produzidos."
+                afirmacao: "é provavel que more na <b>cidade</b>."
             },
         ]
     },
@@ -36,11 +36,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "as cidades oferecem um mercado consumidor para os produtos rurais, acesso a serviços e infraestrutura essenciais e oportunidades de emprego.",
-                afirmacao: "<b>Pragmatismo</b> A falta de investimento governamental na saúde pública decorre de orçamentos restritos e outras prioridades de gastos, levando a infraestrutura precária e serviços de saúde insuficientes."
+                afirmacao: ""
             },
             {
-                texto: "é no campo que os alimentos consumidos pela população da cidade são produzidos..",
-                afirmacao: "<b>Detalhista</b>,Desigualdades na distribuição de recursos na saúde pública ocorrem quando os recursos são alocados de maneira desigual entre diferentes regiões ou populações. Isso pode resultar em acesso desigual a serviços de saúde, com áreas mais pobres ou rurais recebendo menos apoio e, portanto, enfrentando maiores desafios em termos de qualidade e acesso a cuidados médicos."
+                texto: "é no campo que os alimentos consumidos pela população da cidade são produzidos.",
+                afirmacao: ""
             },
         ]
     },
