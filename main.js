@@ -19,15 +19,14 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "porque o campo depende da ciade?",
+        enunciado: "veja:",
         alternativas: [
             {
-                texto: "porque o campo depende da ciade?",
-                afirmacao: "Muitas pessoas não têm acesso a informações adequadas sobre o impacto de suas ações no meio ambiente, o que leva à falta de conscientização e, consequentemente, a comportamentos prejudiciais à <b>sustentabilidade</b>.</b>."
-            },
+                texto: "porque o campo depende da cidade?",
+                afirmacao: "as cidades oferecem um mercado consumidor para os produtos rurais, acesso a serviços e infraestrutura essenciais e oportunidades de emprego."
             {
-                texto: "porque a cidade depende do campo?",
-                afirmacao: "A ausência de incentivos governamentais e de uma legislação <b>rigorosa </b>faz com que empresas e indivíduos não se sintam motivados a adotar práticas sustentáveis, contribuindo para a continuidade de ações nocivas ao meio ambiente."
+                texto: "porque a cidade depende do campo?"
+                afirmacao: "é no campo que os alimentos consumidos pela população da cidade são produzidos e também frutas e hortalissas são cultivadas no campo."
             }
         ]
     },
