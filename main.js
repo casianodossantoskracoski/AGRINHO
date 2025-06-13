@@ -24,10 +24,11 @@ const perguntas = [
             {
                 texto: "porque o campo depende da cidade?",
                 afirmacao: "as cidades oferecem um mercado consumidor para os produtos rurais, acesso a serviços e infraestrutura essenciais e oportunidades de emprego."
+            }
             {
                 texto: "porque a cidade depende do campo?"
                 afirmacao: "é no campo que os alimentos consumidos pela população da cidade são produzidos e também frutas e hortalissas são cultivadas no campo."
-            }
+            },
         ]
     },
     {
@@ -40,7 +41,7 @@ const perguntas = [
             {
                 texto: "desigualdades na distribuição de recursos",
                 afirmacao: "<b>Detalhista</b>,Desigualdades na distribuição de recursos na saúde pública ocorrem quando os recursos são alocados de maneira desigual entre diferentes regiões ou populações. Isso pode resultar em acesso desigual a serviços de saúde, com áreas mais pobres ou rurais recebendo menos apoio e, portanto, enfrentando maiores desafios em termos de qualidade e acesso a cuidados médicos."
-            }
+            },
         ]
     },
     {
@@ -53,7 +54,7 @@ const perguntas = [
             {
                 texto: "Desinformação da população.",
                 afirmacao: "<b>Curiosidade</b> Mesmo com fácil acesso a informação, o assunto é pouco comentado e dado certa  importância. "
-            }
+            },
         ]
     },
     {
