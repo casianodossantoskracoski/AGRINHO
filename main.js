@@ -45,7 +45,7 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "é no campo que os alimentos consumidos pela população da cidade são produzidos. ",
+        enunciado: " ",
         alternativas: [
             {
                 texto: "Negligência médica",
