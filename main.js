@@ -32,7 +32,7 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Por que há tanta escassez de recursos na saúde pública?",
+        enunciado: "as cidades oferecem um mercado consumidor para os produtos rurais, acesso a serviços e infraestrutura essenciais e oportunidades de emprego.",
         alternativas: [
             {
                 texto: "Acredito que Falta de investimento governamental",
