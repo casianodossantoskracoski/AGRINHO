@@ -24,9 +24,9 @@ const perguntas = [
             {
                 texto: "porque o campo depende da cidade?",
                 afirmacao: "as cidades oferecem um mercado consumidor para os produtos rurais, acesso a serviços e infraestrutura essenciais e oportunidades de emprego."
-            }
+            },
             {
-                texto: "porque a cidade depende do campo?"
+                texto: "porque a cidade depende do campo?",
                 afirmacao: "é no campo que os alimentos consumidos pela população da cidade são produzidos e também frutas e hortalissas são cultivadas no campo."
             },
         ]
